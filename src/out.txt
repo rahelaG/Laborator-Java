@@ -1,0 +1,3 @@
+Media numerelor este: 4
+Cel mai mare: 8
+Cel mai mic: 2
